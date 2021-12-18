@@ -1,0 +1,6 @@
+# kubectl create -f ./k8s-namespace.yaml
+
+apiVersion: v1
+kind: Namespace
+metadata:
+ name: <insert-namespace-name-here>
